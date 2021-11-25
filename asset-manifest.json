@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CoinCards/static/css/main.fb290410.chunk.css",
+    "main.js": "/CoinCards/static/js/main.1f5f50ed.chunk.js",
+    "main.js.map": "/CoinCards/static/js/main.1f5f50ed.chunk.js.map",
+    "runtime-main.js": "/CoinCards/static/js/runtime-main.05356e57.js",
+    "runtime-main.js.map": "/CoinCards/static/js/runtime-main.05356e57.js.map",
+    "static/js/2.d4d6b12a.chunk.js": "/CoinCards/static/js/2.d4d6b12a.chunk.js",
+    "static/js/2.d4d6b12a.chunk.js.map": "/CoinCards/static/js/2.d4d6b12a.chunk.js.map",
+    "static/js/3.b0456ff3.chunk.js": "/CoinCards/static/js/3.b0456ff3.chunk.js",
+    "static/js/3.b0456ff3.chunk.js.map": "/CoinCards/static/js/3.b0456ff3.chunk.js.map",
+    "index.html": "/CoinCards/index.html",
+    "precache-manifest.fa3fa5070ab3564d48785d006b43578f.js": "/CoinCards/precache-manifest.fa3fa5070ab3564d48785d006b43578f.js",
+    "service-worker.js": "/CoinCards/service-worker.js",
+    "static/css/main.fb290410.chunk.css.map": "/CoinCards/static/css/main.fb290410.chunk.css.map",
+    "static/js/2.d4d6b12a.chunk.js.LICENSE.txt": "/CoinCards/static/js/2.d4d6b12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05356e57.js",
+    "static/js/2.d4d6b12a.chunk.js",
+    "static/css/main.fb290410.chunk.css",
+    "static/js/main.1f5f50ed.chunk.js"
+  ]
+}
